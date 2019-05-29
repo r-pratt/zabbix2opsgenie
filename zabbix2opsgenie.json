@@ -1,0 +1,7 @@
+{
+  "apiKey":"Opsgenie API Key Here",
+  "edgeAppUrl": "https://your.edge.encryption.host OR Opsgenie API",
+  "teams": "comma,separated,list,of,teams",
+  "tags": "comma,separated,list,of,tags",
+  "logLevel": "DEBUG"
+}
