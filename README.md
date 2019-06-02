@@ -28,7 +28,7 @@ ln -s $GOPATH/src/github.com/r-pratt/zabbix2opsgenie/zabbix2opsgenie.json /etc/o
 Without Go:
 
 ```bash
-mkdir /etc/opsgenie & cd /etc/opsgenie
+mkdir /etc/opsgenie && cd /etc/opsgenie
 
 curl -O 'https://raw.githubusercontent.com/r-pratt/zabbix2opsgenie/master/zabbix2opsgenie'
 
